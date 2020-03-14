@@ -17,7 +17,15 @@ description: >-
 
 [50 Black Cosplayers You Should Be Following! \#29DaysofBlackCosplay](http://dela-doll.com/dela-doll-50-black-cosplayers-you-should-be-following-29daysofblackcosplay/) -- MORE COSPLAY! BY BLACK COSPLAYERS! 🎉
 
+[POVERTY, INC.](https://www.povertyinc.org) -- a web site for the film.
 
+> _"Fighting poverty is big business. But who profits the most?"_
+
+[It’s Time for the Left to Build a Force Outside the Democratic Party](https://www.leftvoice.org/its-time-for-the-left-to-build-a-force-outside-the-democratic-party)
+
+['Colonialism In All Its Ugliness': Indigenous Land Defenders Condemn Violent Police Raid on Camp Blocking Pipeline Construction](https://www.commondreams.org/news/2020/02/06/colonialism-all-its-ugliness-indigenous-land-defenders-condemn-violent-police-raid) by[Julia Conley, staff write](https://www.commondreams.org/author/julia-conley-staff-writer)
+
+> "We are in absolute outrage and a state of painful anguish as we witness the Wet'suwet'en people having their Title and Rights brutally trampled on and their right to self-determination denied."
 
 
 
