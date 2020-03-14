@@ -15,6 +15,8 @@ description: >-
 
 [PoC Cosplayers](https://www.poc-cosplayers.com/cosplay-feed) -- this crosses over from one of my favourite things: CosPlay, or "costume play" -- this site features People of Colour and Blacks dressing up as their favourite characters, so awesome, so cool ❤️
 
+[50 Black Cosplayers You Should Be Following! \#29DaysofBlackCosplay](http://dela-doll.com/dela-doll-50-black-cosplayers-you-should-be-following-29daysofblackcosplay/) -- MORE COSPLAY! BY BLACK COSPLAYERS! 🎉
+
 
 
 
