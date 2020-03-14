@@ -15,5 +15,5 @@ description: 'Stuff that makes work, especially remote work, work'
 
 [How To Run A Free Online Academic Conference: A Workbook \(version 0.2\)](https://docs.google.com/document/u/0/d/1EABkSzEdJk5cmMLETpSbXaeDXmFwcTz7SUXP_C3dN9k/mobilebasic) -- this is a Google Doc collecting ideas and tips on organizing remote conferences, suddenly important in early 2020 with the rise of the COVID-19 virus. I hope this sticks around, though.
 
-
+[Do it fast or do it right?](https://www.linkedin.com/pulse/subject-do-fast-right-harry-max/) -- a great article by colleage Harry Max \(long live SWI!\) on doing email communication better. Lessons here go beyond email as well.
 
