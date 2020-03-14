@@ -13,5 +13,9 @@ description: >-
 
 [Freedom House](https://freedomhouse.org) is founded on the core conviction that freedom flourishes in democratic nations where governments are accountable to their people. They have published their [report](https://freedomhouse.org/report/freedom-world/2020/leaderless-struggle-democracy%20) on freedom in 2020: "A Leaderless Struggle for Democracy"
 
+[PoC Cosplayers](https://www.poc-cosplayers.com/cosplay-feed) -- this crosses over from one of my favourite things: CosPlay, or "costume play" -- this site features People of Colour and Blacks dressing up as their favourite characters, so awesome, so cool ❤️
+
+
+
 
 
