@@ -16,3 +16,11 @@
 * [Politics, Society, Justice, and The Work](politics-society-justice-the-work/politics-society-justice-and-the-work.md)
 * [Public Health](politics-society-justice-the-work/public-health.md)
 
+## Art, Music, Writing, and Creativity
+
+* [Art, Music, Writing, and Creativity](art-music-writing-and-creativity/art-music-writing-and-creativity.md)
+
+## Food, Recipes, Cooking, and the Culinary Arts
+
+* [Food, Cooking, Recipes, and the Culinary Arts](food-recipes-cooking-and-the-culinary-arts/food-cooking-recipes-and-the-culinary-arts.md)
+
