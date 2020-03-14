@@ -8,6 +8,8 @@
   * [my-misc-bin-stuff](https://github.com/tamouse/my-misc-bin-stuff) -- miscellaneous scripts I've written over the years, sets up my own `$HOME/bin` folder
   * Emacs org-mode files, in a private repo
 
+[Fav MacOS apps](https://twitter.com/mxstbr/status/1214454416432087045?s=12) - someone's collection of their favourite mac apps. I had not heard of these.
+
 
 
 

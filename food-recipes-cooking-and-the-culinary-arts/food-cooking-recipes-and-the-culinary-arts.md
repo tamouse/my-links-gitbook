@@ -18,6 +18,12 @@ description: >-
 
 [100 Dump and Go Instant Pot Dinner Recipes](https://www.prudentpennypincher.com/dump-and-go-instant-pot-recipes/)
 
+[19 Easy Pasta Recipes We Make for Emergency Dinners](https://www.bonappetit.com/story/easy-pasta-recipes-emergency-dinners)
+
+x
+
+
+
 
 
 
