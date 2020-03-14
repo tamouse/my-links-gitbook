@@ -8,3 +8,9 @@ description: 'Tech is what I do for work, to teach, and for fun. Lots of stuff l
 
 [10 Ways to Hide Elements in CSS](https://www.sitepoint.com/hide-elements-in-css/) -- despite the amount of flashing and ad fly-in, and signup fly-over on the site, this is a good article to reference. Try and read it with a readable web browser, though. \(TODO: redact this, it's not as though it's special information.\)
 
+[The Power of Simplifying Large Components in React](https://dev.to/jsmanifest/the-power-of-simplifying-large-components-in-react-583k) -- on dev.to, by jsmanifest. Some tips to refactor large components in a collection of smaller, more easily maintained components.
+
+> When you have a large component, it _can_ become disadvantageous because the larger a component gets the more difficult it becomes to maintain and read over time.
+
+x
+

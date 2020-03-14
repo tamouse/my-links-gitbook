@@ -27,5 +27,29 @@ description: >-
 
 > "We are in absolute outrage and a state of painful anguish as we witness the Wet'suwet'en people having their Title and Rights brutally trampled on and their right to self-determination denied."
 
+[Lessons from emerging economies: how women in tech can be drivers of growth](https://www.theguardian.com/business-call-to-action-partnerzone/2020/jan/30/lessons-from-emerging-economies-how-women-in-tech-can-be-drivers-of-growth)
+
+> Employees with tech skills are in short supply globally, but training women to plug the demand may prove invaluable in helping to accelerate developing economies
+
+[The Powell Memo](http://law2.wlu.edu/deptimages/Powell%20Archives/PowellMemorandumTypescript.pdf) -- "Attack on American Free Enterprise System" by Lewis F. Powell, Jr.
+
+* Written in 1971, this memo delineates the strategy the US right wing, embodied in the GOP, as well as other far-right organizations, have followed to move the world further and further to the right, eliminating rights, consolidating power, hoarding capital, and disenfranchsing the global work, and causing immesurable and dire damage the most vulnerable and marginalized people.
+
+[Want out of Jail? First You Have To Take a Fast-Food Job \| Mississippi Today](https://mississippitoday.org/2020/01/09/restitution/) -- how Mississippi continues the slavery of prison even after the person has served their time.
+
+> To pay off fines and other debts, inmates in Mississippi’s little-known restitution centers must work grueling low-wage jobs, pay rent and endure strip searches.
+>
+> In this world between prison and freedom, they often don’t know when they’ll get to go home.
+
+[You Were Made For This](https://www.awakin.org/read/view.php?tid=548) by Clarissa Pinkola Estes. This is the source of the famous quote_:_
+
+> When a great ship is in harbor and moored, it is safe, there can be no doubt. But that is not what great ships are built for.
+
+[The Other Swing Voter](https://www.theatlantic.com/ideas/archive/2020/01/other-swing-voter/604474/) - No one’s paying much attention to one chunk of the electorate that could prove decisive in 2020. By  [Ibram X. Kendi](https://www.theatlantic.com/author/ibram-x-kendi/), Director of the Antiracist Research and Policy Center at American University.
+
+* Spoiler: It's the people who swing between voting Democrat and not voting at all that matter the most, since it is concentrated in younger voters, black voters, and voters of colour. They don't see anything in the current rowboat of candidates that will improve their lives.
+
+
+
 
 

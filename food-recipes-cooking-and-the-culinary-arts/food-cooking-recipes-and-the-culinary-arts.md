@@ -16,6 +16,10 @@ description: >-
 
 [Caramel Chicken](https://soupbelly.com/2018/04/23/caramel-chicken/) -- an Instant Pot recipe I made one night and shared with one of my protégés. We both thought it was a winner. **TODO:** copy over to the recipe file.
 
+[100 Dump and Go Instant Pot Dinner Recipes](https://www.prudentpennypincher.com/dump-and-go-instant-pot-recipes/)
+
+
+
 
 
 

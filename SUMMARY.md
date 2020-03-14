@@ -10,7 +10,8 @@
 
 ## Teams, Meetings, and Productivity Stuff
 
-* [Links about teams, meetings, productivity](teams-meetings-and-productivity-stuff/links-about-teams-meetings-productivity.md)
+* [Links about teams, meetings, productivity](teams-meetings-and-productivity-stuff/links-about-teams-meetings-productivity/README.md)
+  * [Remote Work](teams-meetings-and-productivity-stuff/links-about-teams-meetings-productivity/remote-work.md)
 
 ## Politics, Society, Justice, The Work
 
@@ -24,4 +25,16 @@
 ## Food, Recipes, Cooking, and the Culinary Arts
 
 * [Food, Cooking, Recipes, and the Culinary Arts](food-recipes-cooking-and-the-culinary-arts/food-cooking-recipes-and-the-culinary-arts.md)
+
+## Ecology, Animals, Nature, the Physical World
+
+* [The Physical World: Animals, Nature, Ecology](ecology-animals-nature-the-physical-world/the-physical-world-animals-nature-ecology.md)
+
+## Humour, Fun, a Lighter Side
+
+* [Humour, Fun, and the Lighter Side](humour-fun-a-lighter-side/humour-fun-and-the-lighter-side.md)
+
+## Personal Ecology, Mental Health, Physical Health, Growth, Healing
+
+* [Self Work](personal-ecology-mental-health-physical-health-growth-healing/self-work.md)
 

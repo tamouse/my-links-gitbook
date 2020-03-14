@@ -15,7 +15,17 @@ description: >-
 
 > Filmmaker [Andy Lambert](http://www.andy-lambert.co.uk/) has created [_The Mute Series_](http://www.muteseries.com/), a hilarious independent web series with short, single-shot episodes that feature neither dialogue nor camera movement. Each of the episodes is about two minutes long with very subject-focused stories shot in deadpan film minimalism.
 
-x
+
+
+[The Modern Dragon](https://themoderndragon.com/) -- EXPLORING THE LIVES AND BEHAVIOURS OF THE WORLDS REMAINING DRAGONS.
+
+[Incredible Ghanaian film posters](http://www.bbc.com/culture/story/20190313-incredible-ghanaian-film-posters) -- movie posters of Hollywood movies, by Ghanan artists. Interesting read.
+
+[How This Nonbinary Woman Created the Queerest Cartoon on Television](https://www.them.us/story/rebecca-sugar-steven-universe-interview) -- Rebecca Sugar is making history for LGBTQ+ representation in all-ages programming with _Steven Universe_.
+
+[Paint Snow While It’s Still Around and Embrace the Winter Mood](https://www.artistsnetwork.com/art-mediums/watercolor/winter-palette-demonstration/) -- I guess it makes sense, I'm not a huge fan of winter, but it's good to be able to paint snow living in the frozen tundra.
+
+\`\`\`\`\`\`\`\`\`
 
 
 
