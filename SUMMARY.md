@@ -5,6 +5,7 @@
 ## Tech Stuff
 
 * [Tech Links](tech-stuff/tech-links/README.md)
+  * [Learning](tech-stuff/tech-links/learning.md)
   * [Apple, MacOSX, iOS, etc](tech-stuff/tech-links/apple-macosx-ios-etc.md)
 
 ## Teams, Meetings, and Productivity Stuff
