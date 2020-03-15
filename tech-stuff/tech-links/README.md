@@ -12,5 +12,5 @@ description: 'Tech is what I do for work, to teach, and for fun. Lots of stuff l
 
 > When you have a large component, it _can_ become disadvantageous because the larger a component gets the more difficult it becomes to maintain and read over time.
 
-x
+[The Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) -- a cheat sheet of advanced Unix command line programs, things like `dmesg`, `ulimit` and `netstat`. 
 
