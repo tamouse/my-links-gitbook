@@ -14,3 +14,5 @@ description: 'Tech is what I do for work, to teach, and for fun. Lots of stuff l
 
 [The Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) -- a cheat sheet of advanced Unix command line programs, things like `dmesg`, `ulimit` and `netstat`. 
 
+[Please Don't Write Your Documentation in Markdown](https://weekly.statuscode.com/link/85842/2608ed1e2f) -- he makes a good case for using [reStructuredText](https://docutils.sourceforge.io/docs/user/rst/quickstart.html), which allows for semantic information to be encapsulated in plain text, which Markdown does not do. Worth a look.
+
