@@ -11,7 +11,13 @@
 
 * The [original version](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) was written using Scheme, a dialect of Lisp
 
-x
+### Lists of Project Ideas
 
+For inspiration when you're stuck for ideas on projects to help further learn
 
+[37 App Ideas for Bootcamp Students & Code Newbies](https://dev.to/sylwiavargas/33-app-ideas-for-bootcamp-students-code-newbies-3n28)
+
+[A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas)
+
+[Lodash](https://lodash.com) clone -- implement some of the myriad useful JS method in the kitchen sink utility. Start with figuring out how to implement `map`, `filter`, and `reduce`; which although in native JS now, are still grand learning exercises.
 
