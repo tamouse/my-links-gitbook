@@ -11,6 +11,8 @@
 
 * The [original version](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) was written using Scheme, a dialect of Lisp
 
+How can I forget my own: [Resources for learning how to program, especially how to program in Ruby and Rails](https://github.com/tamouse/swaac/blob/master/posts/learning.org#resources-for-learning-how-to-program-especially-how-to-program-in-ruby-and-rails) on my devbog: [https://github.com/tamouse/swaac](https://github.com/tamouse/swaac)  \(an example of blog as repository\).
+
 ### Lists of Project Ideas
 
 For inspiration when you're stuck for ideas on projects to help further learn
@@ -20,4 +22,8 @@ For inspiration when you're stuck for ideas on projects to help further learn
 [A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas)
 
 [Lodash](https://lodash.com) clone -- implement some of the myriad useful JS method in the kitchen sink utility. Start with figuring out how to implement `map`, `filter`, and `reduce`; which although in native JS now, are still grand learning exercises.
+
+[A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3)  -- "Humor, food, machine learning, crime, sports, and more"
+
+
 

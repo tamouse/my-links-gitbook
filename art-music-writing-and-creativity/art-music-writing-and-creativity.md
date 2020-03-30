@@ -25,7 +25,15 @@ description: >-
 
 [Paint Snow While It’s Still Around and Embrace the Winter Mood](https://www.artistsnetwork.com/art-mediums/watercolor/winter-palette-demonstration/) -- I guess it makes sense, I'm not a huge fan of winter, but it's good to be able to paint snow living in the frozen tundra.
 
-\`\`\`\`\`\`\`\`\`
+[Good things can come from bad things](https://creativemornings.com/talks/melanie-g-s-walby) -- Melanie G.S. Walby, Design Director at Pollen Midwest, talks about loss, family, joy, and our relationship with time.
+
+[https://doodlewash.com](https://doodlewash.com) -- blog and community around art, but especially the Doodlewash:
+
+> Anything one creates that involves a drop of water to create beautiful washes of color and/or ink
+
+[Tony White Watercolour School](https://twwschool.teachable.com) -- online watercolour classes
+
+[Easy Drawing Guides and Tutorials](https://easydrawingguides.com) -- elementary drawing guides, kind of cartoony, but fun
 
 
 
