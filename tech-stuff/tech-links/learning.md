@@ -1,11 +1,6 @@
 # Learning
 
-[Learn Web Development Free \(HTML, CSS and JavaScript\) through the Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/) -- Enroll in the Frontend Masters Online Bootcamp, for FREE!!
-
-* Frontend Masters has been one of the best places I've found for learning these skills. They bring the best teachers, have a marvelous studio, the craft on-demand video training that is unmatched.
-* They're also a good group of folks. ❤️
-
-
+## Books, Articles, and Stuff
 
 [The Structure and Interpretation of Computer Programs \(SICP\), JavaScript Edition \(online\)](https://sicp.comp.nus.edu.sg) -- a seminal work on computer science, redone for the modern day developer in JavaScript. I wonder how well this will age...
 
@@ -13,7 +8,16 @@
 
 How can I forget my own: [Resources for learning how to program, especially how to program in Ruby and Rails](https://github.com/tamouse/swaac/blob/master/posts/learning.org#resources-for-learning-how-to-program-especially-how-to-program-in-ruby-and-rails) on my devbog: [https://github.com/tamouse/swaac](https://github.com/tamouse/swaac)  \(an example of blog as repository\).
 
-### Lists of Project Ideas
+## Training
+
+[Learn Web Development Free \(HTML, CSS and JavaScript\) through the Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/) -- Enroll in the Frontend Masters Online Bootcamp, for FREE!!
+
+* Frontend Masters has been one of the best places I've found for learning these skills. They bring the best teachers, have a marvelous studio, the craft on-demand video training that is unmatched.
+* They're also a good group of folks. 
+
+[General Assembly: Learn Coding, Design, Digital Marketing in Minneapolis](https://generalassemb.ly/locations/minneapolis) -- I don't them or have heard anything about them, but they sponsored the April 2020 Hack-the-Gap, so I guess they're cool
+
+## Lists of Project Ideas
 
 For inspiration when you're stuck for ideas on projects to help further learn
 
