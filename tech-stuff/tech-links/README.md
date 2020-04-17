@@ -16,3 +16,5 @@ description: 'Tech is what I do for work, to teach, and for fun. Lots of stuff l
 
 [Please Don't Write Your Documentation in Markdown](https://weekly.statuscode.com/link/85842/2608ed1e2f) -- he makes a good case for using [reStructuredText](https://docutils.sourceforge.io/docs/user/rst/quickstart.html), which allows for semantic information to be encapsulated in plain text, which Markdown does not do. Worth a look.
 
+[Cheat Sheet collection](https://github.com/tamouse/cheat-sheet-collection) - a bunch of quick info about a variety of things
+
