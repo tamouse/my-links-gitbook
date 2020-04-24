@@ -31,5 +31,7 @@ For inspiration when you're stuck for ideas on projects to help further learn
 
 [A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3)  -- "Humor, food, machine learning, crime, sports, and more"
 
+[Front-End Challenges Club](https://piccalil.li/category/front-end%20challenges%20club/) - on hiatus, a collection of challenges, small projects, single function things to build, kata
+
 
 
