@@ -33,5 +33,7 @@ For inspiration when you're stuck for ideas on projects to help further learn
 
 [Front-End Challenges Club](https://piccalil.li/category/front-end%20challenges%20club/) - on hiatus, a collection of challenges, small projects, single function things to build, kata
 
+More [front-end coding challenges](https://css-tricks.com/front-end-challenges/) from Chris Coyler, of CSS-Tricks.
+
 
 
