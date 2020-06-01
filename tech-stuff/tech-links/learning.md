@@ -19,6 +19,8 @@ How can I forget my own: [Resources for learning how to program, especially how 
 
 [General Assembly: Learn Coding, Design, Digital Marketing in Minneapolis](https://generalassemb.ly/locations/minneapolis) -- I don't them or have heard anything about them, but they sponsored the April 2020 Hack-the-Gap, so I guess they're cool
 
+[Abdul Bari algorithm and computer science videos](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/playlists) -- Abdul Gari launched a Youtube channel to bring concepts about various computer algorithms to students in a gentle way. His white board explanations are thorough, but not complex.
+
 ## Lists of Project Ideas
 
 For inspiration when you're stuck for ideas on projects to help further learn
