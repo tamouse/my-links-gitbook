@@ -8,6 +8,8 @@
 
 How can I forget my own: [Resources for learning how to program, especially how to program in Ruby and Rails](https://github.com/tamouse/swaac/blob/master/posts/learning.org#resources-for-learning-how-to-program-especially-how-to-program-in-ruby-and-rails) on my devbog: [https://github.com/tamouse/swaac](https://github.com/tamouse/swaac)  \(an example of blog as repository\).
 
+
+
 ## Training
 
 [500 Free Computer Science Courses from the World’s Top CS Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/) - a list from Free Code Camp, 4/17/2020
