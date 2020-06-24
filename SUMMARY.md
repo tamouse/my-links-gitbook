@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Links](README.md)
+* [About](README.md)
 
 ## Tech Stuff
 
